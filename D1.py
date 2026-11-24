@@ -1,4 +1,3 @@
-# Introduction
 # Day 1 - 30DaysOfPython Challenge
 
 print("Hello World!")   # print hello world
@@ -23,3 +22,5 @@ print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name': 'ROHIT'}))  # Dictionary
 print(type({9.8, 3.14, 2.7}))    # set
+
+#DAY 1 COMPLETE
